@@ -97,9 +97,7 @@ The project was created using modern web-development technologies and AI-assiste
 ### Deployment
 
 * Vercel
-
-> **Note:** Update this section if additional APIs, frameworks, libraries, or services are integrated into the final version.
-
+  
 ---
 
 ## 🏗️ How It Works
@@ -145,9 +143,6 @@ SheVibes--Rider-s-Stop/
 │   └── ...
 │
 └── README.md
-```
-
-> Update the structure above according to the actual files in the repository.
 
 ---
 
@@ -179,16 +174,11 @@ For a better development experience, you can also use **VS Code with Live Server
 
 ---
 
-## 🌐 Live Demo
 
 ### 🚀 Deployed Website
 
-**[ADD YOUR FINAL DEPLOYED WEBSITE LINK HERE]**
+https://ridersstop-183zfemns-rider-s-stop.vercel.app/
 
-Example:
-
-```text
-https://vidhurikasingh-567.github.io/SheVibes--Rider-s-Stop/
 ```
 
 ### 🤖 Claude AI Prototype
@@ -197,7 +187,7 @@ https://vidhurikasingh-567.github.io/SheVibes--Rider-s-Stop/
 
 ---
 
-## 🎥 Demo / Presentation
+## 🎥 Presentation
 
 ### 📊 Project Presentation
 
